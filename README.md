@@ -53,6 +53,3 @@ Smart Rail ID generates a **unique, encrypted, auto-expiring ID/QR** for every b
 ---
 
 
-
-# Access in browser
-http://localhost:3000   # (or your configured port)
